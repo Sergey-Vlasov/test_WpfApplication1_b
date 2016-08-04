@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SerializableModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <tasks>
+    <tasks>
+      <Task>
+        <blocks />
+        <tabs>
+          <DocumentTab>
+            <name>MainWindow.xaml</name>
+            <path>test_WpfApplication1_b\MainWindow.xaml</path>
+            <absolutePath>E:\programming\test_WpfApplication1_b\test_WpfApplication1_b\MainWindow.xaml</absolutePath>
+            <position>
+              <line>1</line>
+              <column>1</column>
+              <lineHash>LiTwwGjPZcA2lL8tNb8kZ0FkmqTWlOhNvtdaM6DBFy4=</lineHash>
+            </position>
+          </DocumentTab>
+          <DocumentTab>
+            <name>MainWindow.xaml.cs</name>
+            <path>test_WpfApplication1_b\MainWindow.xaml.cs</path>
+            <absolutePath>E:\programming\test_WpfApplication1_b\test_WpfApplication1_b\MainWindow.xaml.cs</absolutePath>
+            <position>
+              <line>1</line>
+              <column>1</column>
+              <lineHash>+C3wS7Ft5DyHeLCyPV9r1wsaOWkxFdQYa1IzhmbnvNw=</lineHash>
+            </position>
+          </DocumentTab>
+        </tabs>
+        <name>Misc</name>
+        <selectedBlock>-1</selectedBlock>
+        <selectedTab>-1</selectedTab>
+      </Task>
+    </tasks>
+    <selectedTask>0</selectedTask>
+  </tasks>
+</SerializableModel>

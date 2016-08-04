@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>E:\programming\test_WpfApplication1_b\test_WpfApplication1_b\MainWindow.xaml</string>
+      <string>E:\programming\test_WpfApplication1_b\test_WpfApplication1_b\MainWindow.xaml.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\sv\AppData\Local\Temp\80dc54fa-abca-43a3-8c53-f6e287356455.TaskCanvasWndDoc</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
